@@ -6,4 +6,5 @@
  *
  */
 module MyFirstBasicGame {
+	requires java.desktop;
 }
