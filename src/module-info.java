@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kklag
+ *
+ */
+module MyFirstBasicGame {
+}
